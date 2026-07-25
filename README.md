@@ -14,7 +14,6 @@ and building things that hold up against them.
 - Detection tooling and GRC automation. Public — see repositories.
 - Write-ups. Some of them published.
 
--
 
 **Working knowledge**
 
