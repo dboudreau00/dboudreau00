@@ -21,6 +21,6 @@ Static and dynamic binary analysis · YARA · adversary emulation · detection
 engineering · AWS security architecture · incident response
 
 
-CySA+ · CASP+ · GREM · Some others but this book study doesn't really matter.
+CySA+ · CASP+ · GREM · blah blah, some others too, but this book study stuff doesn't really matter.
 
 ---
