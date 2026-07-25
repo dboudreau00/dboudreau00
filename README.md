@@ -1,4 +1,4 @@
-## Daniel Boudreau · `sYYn`
+## `sYYn`
 
 Threat intelligence, malware reverse engineering, defensive architecture.
 
