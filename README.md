@@ -1,16 +1,25 @@
-## Hi there 👋
+## Daniel Boudreau · `sYYn`
 
-<!--
-**dboudreau00/dboudreau00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Threat intelligence, malware reverse engineering, defensive architecture.
 
-Here are some ideas to get you started:
+Criminal operations are run by people. Most of my work is understanding how those
+people are organized — the aliases, the infrastructure, the operational habits —
+and building things that hold up against them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Currently**
+
+- A graph engine for mapping actor aliases, relationships, and infrastructure. Private for now.
+- Detection tooling and GRC automation. Public — see repositories.
+- Write-ups. Some of them published.
+
+**Working knowledge**
+
+Static and dynamic binary analysis · YARA · adversary emulation · detection
+engineering · AWS security architecture · incident response
+
+
+CySA+ · CASP+ · GREM · Some others but this book study doesn't really matter.
+
+---
