@@ -10,7 +10,7 @@ and building things that hold up against them.
 
 **Currently**
 
-- A graph engine for mapping actor aliases, relationships, and infrastructure. Private for now.
+- A graph engine for mapping actor aliases, relationships, and infrastructure. NocTORnal pinned below.
 - Detection tooling and GRC automation. Public — see repositories.
 - Write-ups. Some of them published.
 
