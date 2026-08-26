@@ -24,3 +24,6 @@ engineering · AWS security architecture · incident response
 CySA+ · CASP+ · GREM · blah blah, some others too, but this book study stuff doesn't really matter.
 
 ---
+
+Struggling with AI? Learn about AI here; All .html with no dependencies. 
+https://dboudreau.dev/latent-space.html
