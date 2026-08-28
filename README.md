@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://syyn.ca">
-    <img src="assets/syyn-logo.svg" alt="sYYn — syyn.ca" width="290">
-  </a>
-</div>
+
 
 ## `sYYn`
 
@@ -31,9 +27,16 @@ CySA+ · CASP+ · GREM · blah blah, some others too, but this book study stuff 
 
 ---
 
-<a href="https://dboudreau.dev">
-  <img src="assets/dark-orrery.svg" alt="The Dark Orrery — thirteen projects orbiting one core, live at dboudreau.dev" width="100%">
-</a>
 
 Struggling with AI? Learn about AI here; All .html with no dependencies. 
 https://dboudreau.dev/latent-space.html
+
+
+---
+
+
+<div align="center">
+  <a href="https://syyn.ca">
+    <img src="assets/syyn-logo.svg" alt="sYYn — syyn.ca" width="290">
+  </a>
+</div>
