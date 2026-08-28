@@ -42,5 +42,5 @@ https://dboudreau.dev/latent-space.html
 </div>
 
 
-<img width="500" height="500" alt="1faf0e9d9491d4c7e796f551445ceb70-1182899752-removebg-preview" src="https://github.com/user-attachments/assets/fa95f8b4-56a9-43d0-8c07-02d74c97722e" />
+
 
