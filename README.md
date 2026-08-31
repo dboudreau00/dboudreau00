@@ -4,9 +4,7 @@
 
 Threat intelligence, malware reverse engineering, defensive architecture.
 
-Criminal operations are run by people. Most of my work is understanding how those
-people are organized — the aliases, the infrastructure, the operational habits —
-and building things that hold up against them.
+I like Security. I like Privacy. Not much else to say here.
 
 ---
 
