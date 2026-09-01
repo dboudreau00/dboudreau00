@@ -33,12 +33,6 @@ https://dboudreau.dev/latent-space.html
 ---
 
 
-<div align="center">
-  <a href="https://syyn.ca">
-    <img src="assets/syyn-logo.svg" alt="sYYn — syyn.ca" width="290">
-  </a>
-</div>
-
 
 
 
