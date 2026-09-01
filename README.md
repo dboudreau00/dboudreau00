@@ -4,7 +4,7 @@
 
 Threat intelligence, malware reverse engineering, defensive architecture.
 
-I like Security. I like Privacy. Not much else to say here.
+I like Security. I like Privacy. I like ruining a threat actors' day. Not much else to say here.
 
 ---
 
