@@ -4,29 +4,28 @@
 
 Threat intelligence, malware reverse engineering, defensive architecture.
 
-I like Security. I like Privacy. I like ruining a threat actors' day. Not much else to say here.
+I like Security. I like Privacy. I like ruining a threat actors' day by enabling defenders.
 
 ---
 
 **Currently**
 
-- A graph engine for mapping actor aliases, relationships, and infrastructure. NocTORnal pinned below.
-- Detection tooling and GRC automation. Public — see repositories.
-- Write-ups. Some of them published.
+- A graph engine for mapping actor aliases, relationships, legal framework and infrastructure. NocTORnal pinned below.
+- GRC Audit Automation and RAG engines for RFP/RFI Responses helping alleviate enablement workloads.
+- Write-ups & Tutorials simplifying complex subjects.
 
 
-**Working knowledge**
-
-Static and dynamic binary analysis · YARA · adversary emulation · detection
-engineering · AWS security architecture · incident response
-
-
-CySA+ · CASP+ · GREM · blah blah, some others too, but this book study stuff doesn't really matter.
 
 ---
 
 
-Struggling with AI? Learn about AI here; All .html with no dependencies. 
+CySA+ · CASP+ · GREM · blah blah, some others too, but this book study stuff doesn't really matter.
+
+
+---
+
+
+Struggling with AI? Learn about the technical concepts AI here; All .html with no dependencies. 
 https://dboudreau.dev/latent-space.html
 
 
