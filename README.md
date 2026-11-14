@@ -5,6 +5,7 @@
 Threat intelligence, malware reverse engineering, defensive architecture.
 
 I like Security. I like Privacy. I like ruining a threat actors' day by enabling defenders.
+I build most projects for fun. All of them you see here started with a question and an answer.
 
 ---
 
