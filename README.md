@@ -6,7 +6,7 @@ Threat intelligence, malware reverse engineering, defensive architecture.
 
 I like Security. I like Privacy. I like ruining a threat actors' day by enabling defenders.
 
-I build most projects for fun or refining my skillset. All of them you see here started with a question and an answer.
+I build most projects for fun or refining my skillset. All of them you see here started with a question and an answer. Software is often created as a solution to a problem, and the best way to understand a solution to a problem; in my experience, is to build it from scratch or a base. 
 
 ---
 
