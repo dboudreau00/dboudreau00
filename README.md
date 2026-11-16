@@ -29,7 +29,7 @@ CySA+ · CASP+ · GREM · blah blah, some others too, but this book study stuff 
 ---
 
 
-Struggling with AI? Learn about the technical concepts AI here; All .html with no dependencies. 
+Struggling with AI? Learn about the technical concepts of AI here; All .html with no dependencies. 
 https://dboudreau.dev/latent-space.html
 
 
