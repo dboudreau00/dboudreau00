@@ -28,4 +28,7 @@ Above all, I enjoy teaching and, more importantly, learning from others. Sharing
 
 ---
 
+Likes: Python, C#, Go, Pascal, FastAPI
+Dislikes: ASM, Rust
+
 Struggling with AI? Learn the technical concepts of AI here. It is all plain .html with no dependencies: [dboudreau.dev/latent-space.html](https://dboudreau.dev/latent-space.html)
